@@ -77,19 +77,7 @@
 
 
 
-		<!-- Personalizada -->
-		<dependency>
-			<groupId>com</groupId>
-			<artifactId>cognito.virtual</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-			<classifier>lib</classifier>
-			<exclusions>
-				<exclusion>
-					<groupId>org.springframework.boot</groupId>
-					<artifactId>spring-boot-starter-security</artifactId>
-				</exclusion>
-			</exclusions>
-		</dependency>
+
 		<dependency>
 			<groupId>javax.validation</groupId>
 			<artifactId>validation-api</artifactId>
