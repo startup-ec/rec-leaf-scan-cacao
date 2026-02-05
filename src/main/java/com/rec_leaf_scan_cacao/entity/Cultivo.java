@@ -1,6 +1,5 @@
 package com.rec_leaf_scan_cacao.entity;
 
-import com.cognito.virtual.entity.UserEntity;
 import jakarta.persistence.*;
 import lombok.*;
 
